@@ -1,8 +1,9 @@
 # TanWu_TWO
-Shanghai Hackathon 2021
-<br>
-2021年上海高校iOS创新实践联盟 Hackathon 24小时编程马拉松
+- Shanghai Hackathon 2021
 
+- 2021年上海高校iOS创新实践联盟 Hackathon 24小时编程马拉松 
+
+- 我只是个辅助
 # Problem
 Challenge : E-COMMERCE IS EASY COMMERCE.
 
